@@ -61,7 +61,6 @@ public class LinkedList {
                 }
                 temp = temp.next;
             }
-            // To be implemented
         }
 
         // Method to check for a win
